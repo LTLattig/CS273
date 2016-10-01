@@ -1,0 +1,5 @@
+﻿  readint.cpp
+c:\users\luke lattig\desktop\new folder (2)\repositories\cs273repo\hw3\cs273_hw3_ex03_1\cs273_hw3_ex03_1\readint.cpp(23): warning C4101: 'ex': unreferenced local variable
+c:\users\luke lattig\desktop\new folder (2)\repositories\cs273repo\hw3\cs273_hw3_ex03_1\cs273_hw3_ex03_1\readint.cpp(28): warning C4101: 'rng': unreferenced local variable
+  CS273_HW3_EX03_1.vcxproj -> C:\Users\Luke Lattig\Desktop\New folder (2)\Repositories\CS273Repo\HW3\CS273_HW3_EX03_1\Debug\CS273_HW3_EX03_1.exe
+  CS273_HW3_EX03_1.vcxproj -> C:\Users\Luke Lattig\Desktop\New folder (2)\Repositories\CS273Repo\HW3\CS273_HW3_EX03_1\Debug\CS273_HW3_EX03_1.pdb (Full PDB)
