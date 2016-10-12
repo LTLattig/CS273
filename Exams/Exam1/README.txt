@@ -1,0 +1,2 @@
+Apologies, I WAS finished about a minute before class started, and was really hoping it would push before 9:05. It would've if Safeconnect hadn't blocked the attempt.
+The last edit to the file, however, was complete before class started.
