@@ -46,7 +46,7 @@ namespace Exam1 // NAMESPACE
 		RaceCar(string color) : Vehicle(color) {
 			_topspeed = 250;
 			for (int i = 0; i < 4; i++)
-				wheels.push_back(305);
+				wheels.push_back(Wheel(305));
 		}
 		void Description()
 		{
@@ -64,7 +64,7 @@ namespace Exam1 // NAMESPACE
 			number_of_seats = seats; 
 			_topspeed = 95;
 			for (int i = 0; i < 4; i++)
-				wheels.push_back(381);
+				wheels.push_back(Wheel(381));
 		}
 		void Description()
 		{
@@ -82,7 +82,7 @@ namespace Exam1 // NAMESPACE
 			hauling_capacity = capacity; 
 			_topspeed = 85;
 			for (int i = 0; i < 4; i++)
-				wheels.push_back(432);
+				wheels.push_back(Wheel(432));
 		
 		}
 		void Description()
